@@ -5,9 +5,17 @@
 ios 개발시 유용한 snippet 들을 모아놓은 repository 입니다. 
 
 
-### Usage 
+### Installation
 
 <img src='./images/install.png'>
+
+- scripts
+```bash 
+git clone https://github.com/techinpark/xcode-snippets.git
+cd xcode-snippets
+chmod +x ./install.sh 
+./install.sh 
+```
 
 ## Snippets List :memo:
 
