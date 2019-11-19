@@ -4,7 +4,7 @@ ios 개발시 유용한 snippet 들을 모아놓은 repository 입니다.
 
 
 ### Usage 
-- 사용법은 다음과 같습니다.
+
 <img src='./images/install.png'>
 
 ## Snippets List :memo:
