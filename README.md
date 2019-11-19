@@ -1,6 +1,7 @@
 # xcode-snippets 
 
-![GitHub](https://img.shields.io/github/license/techinpark/xcode-snippets?style=plastic)
+![GitHub](https://img.shields.io/github/license/techinpark/xcode-snippets?style=plastic) [![Twitter: @techinpark](https://img.shields.io/badge/contact-@techinpark-blue.svg?style=flat)](https://twitter.com/techinpark)
+
 
 ios 개발시 유용한 snippet 들을 모아놓은 repository 입니다. 
 
