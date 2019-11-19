@@ -24,7 +24,7 @@ chmod +x ./install.sh
 
 ### 01. subscribe(onNext)
 
- |파일명|[5B5A1A4C-9F15-42EB-8286-6638A54AA449.codesnippet](./5B5A1A4C-9F15-42EB-8286-6638A54AA449.codesnippet)|
+ |파일명|[rx-subscribe-onNext.codesnippet](./rx-subscribe-onNext.codesnippet)|
  |--|--|
  |단축어|`_subscribeOnNext`|
  
@@ -41,7 +41,7 @@ chmod +x ./install.sh
 
 ### 01. Appearance Settings 
 
-|파일명|[9E617093-720D-4DF9-8D40-E6D4E4695A36.codesnippet](./9E617093-720D-4DF9-8D40-E6D4E4695A36.codesnippet)|
+|파일명|[ui-appearance-settings.codesnippet](./ui-appearance-settings.codesnippet)|
  |--|--|
  |단축어|`_appearanceSettings`|
  
