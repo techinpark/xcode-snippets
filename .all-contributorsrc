@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "87kangsw",
+      "name": "Sungwook Kang",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6590255?v=4",
+      "profile": "http://bit.ly/31Lsy5q",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "xcode-snippets",
+  "projectOwner": "techinpark",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
