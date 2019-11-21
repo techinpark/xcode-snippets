@@ -1,4 +1,5 @@
 # xcode-snippets 
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 ![GitHub](https://img.shields.io/github/license/techinpark/xcode-snippets?style=plastic) [![Twitter: @techinpark](https://img.shields.io/badge/contact-@techinpark-blue.svg?style=flat)](https://twitter.com/techinpark)
 
@@ -59,3 +60,19 @@ private struct Color {
         
 }
 ```
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="http://bit.ly/31Lsy5q"><img src="https://avatars1.githubusercontent.com/u/6590255?v=4" width="100px;" alt="Sungwook Kang"/><br /><sub><b>Sungwook Kang</b></sub></a><br /><a href="https://github.com/techinpark/xcode-snippets/commits?author=87kangsw" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
